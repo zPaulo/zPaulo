@@ -1,4 +1,4 @@
-## Olá! Eu sou Paulo Arruda, Alanlista de Dados, BI, Ações, Suporte e mesmo assim ainda não sei amarrar meu cadarço.
+## Olá! Eu sou Paulo Arruda, Analista de Dados, BI, Ações, Suporte e mesmo assim ainda não sei amarrar meu cadarço.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zpaulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
