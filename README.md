@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou Paulo Arruda  
-Analista de Dados, BI, Ações, Suporte — e mesmo assim ainda não sei amarrar meu cadarço.
+Analista de Dados, BI, Ações, Suporte, Sistemas e mesmo assim ainda não sei amarrar meu cadarço.
 
 <div align="center">
   <a href="https://github.com/zpaulo">
