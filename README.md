@@ -1,11 +1,10 @@
 ## 👋 Olá! Eu sou Paulo Arruda  
 Analista de Dados, BI, Ações, Suporte, Sistemas e mesmo assim ainda não sei amarrar meu cadarço.
 
-<div align="center">
-  <a href="https://github.com/zpaulo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpaulo&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/zpaulo?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/zpaulo">
+</picture>
 
 ## 🚀 Tecnologias que eu domino
 
