@@ -15,7 +15,9 @@ Analista de Dados, BI, Ações, Suporte, Sistemas e mesmo assim ainda não sei a
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Fastify" height="40" width="40" src="https://logo.svgcdn.com/l/fastify-original.svg" style="filter: invert(1) brightness(1.2)">
+  <img align="center" alt="Fastify" height="40" width="40" 
+     src="https://www.svgrepo.com/show/373968/fastify.svg" 
+     style="filter: invert(1) brightness(1.2)" />
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -30,6 +32,6 @@ Analista de Dados, BI, Ações, Suporte, Sistemas e mesmo assim ainda não sei a
 
 <div> 
   <a href="https://instagram.com/paulo_arruda2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:pauloarruda5@protonmai.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:paulo.arrudag@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paulo-arruda-3a045a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
