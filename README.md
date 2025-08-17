@@ -16,7 +16,7 @@ Analista de Dados, BI, Ações, Suporte, Sistemas e mesmo assim ainda não sei a
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Fastify" height="40" width="40" 
-     src="https://www.svgrepo.com/show/373968/fastify.svg" 
+     src="https://www.svgrepo.com/show/353729/fastify-icon.svg" 
      style="filter: invert(1) brightness(1.2)" />
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
