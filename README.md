@@ -1,12 +1,12 @@
 ## 👋 Olá! Eu sou Paulo Arruda  
-Analista de Dados, BI, Ações, Suporte, Sistemas e mesmo assim ainda não sei amarrar meu cadarço.
+DevOps, Desenvolvimento de Software, Governança e Engenharia de Dados — e mesmo assim ainda não sei amarrar meu cadarço.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/zpaulo?theme=dark">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/zpaulo">
 </picture>
 
-## 🚀 Tecnologias que eu domino
+## 🛠️ Tecnologias que uso no dia a dia
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><picture><img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></picture></a>&nbsp;
