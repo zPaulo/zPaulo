@@ -15,7 +15,7 @@ DevOps, Desenvolvimento de Software, Governança, Análise de Dados e Engenharia
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><picture><img alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></picture></a>&nbsp;
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><picture><img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></picture></a>&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><picture><img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></picture></a>&nbsp;
-  <a href="https://bun.sh" target="_blank" rel="noreferrer"><picture><img alt="Bun" height="40" width="40" src="https://cdn.simpleicons.org/bun/000000" /></picture></a>&nbsp;
+  <a href="https://bun.sh" target="_blank" rel="noreferrer"><picture><img alt="Bun" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" /></picture></a>&nbsp;
   <a href="https://fastify.dev" target="_blank" rel="noreferrer"><picture><img alt="Fastify" height="40" width="40" src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" /></picture></a>&nbsp;
   <a href="https://hono.dev" target="_blank" rel="noreferrer"><picture><img alt="Hono" height="40" width="40" src="https://cdn.simpleicons.org/hono/E36002" /></picture></a>&nbsp;
   <a href="https://react.dev" target="_blank" rel="noreferrer"><picture><img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></picture></a>&nbsp;
