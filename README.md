@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou Paulo Arruda  
-DevOps, Desenvolvimento de Software, Governança e Engenharia de Dados — e mesmo assim ainda não sei amarrar meu cadarço.
+DevOps, Desenvolvimento de Software, Governança, Análise de Dados e Engenharia de Dados, e mesmo assim ainda não sei amarrar meu cadarço.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/zpaulo?theme=dark">
